@@ -2,6 +2,31 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
+## L1 — living and dining with ivory marble
+
+![L1 ivory marble living and dining with sofa facing TV on B2 wall](concepts/L1-living-dining/ivory-marble-partition.png)
+
+[Open the living and dining concept](concepts/L1-living-dining/ivory-marble-partition.png)
+
+### Owner-confirmed requirements
+
+- Combined living/dining L1, labelled 15′2″ × 16′1″ in the supplied plan.
+- No windows in L1. Main entry at the top-right corner of the original plan.
+- L-shaped sofa facing a TV on the wall shared with bedroom B2, with B2 access kept clear.
+- Four-seat dining table near the kitchen, with an open partition separating dining from seating.
+- Kitchen access follows the upper-left side of L1 beside K1 in the original plan, rather than the invented entrance in earlier renders.
+- Ivory marble flooring; this concept also uses an ivory marble TV feature panel with light oak accents.
+
+### Proposed concept
+
+The view looks from the entry side toward B2’s shared wall; the main entry is behind the camera. The cream L sofa faces the TV, and a short open oak slat partition separates it from dining while keeping the kitchen route open. Finishes include ivory marble with subtle beige veining, cream upholstery, light oak, sage accents and an oatmeal rug. Closed TV storage, a dining pendant, ambient ceiling lighting, a fan and a split AC complete the furnishing study.
+
+Furniture targets for a measured layout: a compact L sofa around 7′6″–8′ overall with a 5′–5′6″ chaise, a 4′ × 2′6″ four-seat table, a shallow 12″–14″ TV console and a compact rounded coffee table. Confirm actual furniture sizes, chair pullout, TV viewing distance and continuous clear routes on site. The partition length and position must suit the kitchen opening and sofa footprint; it should not cross an access route.
+
+This image is a concept visualization, not a measured drawing. Door widths, exact openings, pillar sizes, ceiling height and circulation dimensions remain unverified. The kitchen opening follows the upper-left relationship in the supplied plan, but its pictured width, leaf and joinery are illustrative. Confirm the existing ventilation arrangement for the windowless hall before specifying AC and ceiling details. The ceiling border is optional, subject to height and service clearances. Use a low-sheen finish for the ivory marble and a nonslip underlay beneath the rug.
+
+---
+
 ## B2 — corrected AC position in top and front views
 
 ![B2 top and front views with AC on the left wall near the bed foot](concepts/B2-parents-bedroom/sage-cream-matched-ac-layout.png)
