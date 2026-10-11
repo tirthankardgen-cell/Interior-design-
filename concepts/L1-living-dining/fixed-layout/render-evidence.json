@@ -1,0 +1,22 @@
+{
+  "01-top": {
+    "geometry_sha256": "ab1b7ee8fe88899b5feabda219953e18fe8b59b856f920e4c1748d4b4693f0a7",
+    "ceiling_cutaway": true,
+    "camera": "TOP same room"
+  },
+  "02-entry-to-tv": {
+    "geometry_sha256": "ab1b7ee8fe88899b5feabda219953e18fe8b59b856f920e4c1748d4b4693f0a7",
+    "ceiling_cutaway": false,
+    "camera": "A from entry zone toward B2 TV"
+  },
+  "03-tv-to-entry": {
+    "geometry_sha256": "ab1b7ee8fe88899b5feabda219953e18fe8b59b856f920e4c1748d4b4693f0a7",
+    "ceiling_cutaway": false,
+    "camera": "B from B2 side toward entry"
+  },
+  "04-dining-to-puja": {
+    "geometry_sha256": "ab1b7ee8fe88899b5feabda219953e18fe8b59b856f920e4c1748d4b4693f0a7",
+    "ceiling_cutaway": false,
+    "camera": "C from dining side to puja"
+  }
+}

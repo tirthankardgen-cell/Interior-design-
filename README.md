@@ -2,7 +2,25 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
-## L1 — latest theme: pearl grey, walnut and champagne
+## L1 — current layout: matched to the owner’s rough sketch
+
+![L1 fixed top plan with camera directions](concepts/L1-living-dining/fixed-layout/00-labelled-plan.png)
+
+**[Open the consistent top and room views](concepts/L1-living-dining/fixed-layout/README.md)**
+
+The hall has been rebuilt as one 3D scene using the owner’s rough top view. Dining runs lengthwise beside the upper-left kitchen access. The right-side puja bay has two partitions, followed by the L sofa facing the TV on B2’s wall. Main entry stays upper-right. Every room view uses the same geometry; only the camera changes.
+
+| View | Direction |
+| --- | --- |
+| [A](concepts/L1-living-dining/fixed-layout/02-entry-to-tv.png) | Entrance side toward B2/TV |
+| [B](concepts/L1-living-dining/fixed-layout/03-tv-to-entry.png) | B2 side back toward the entrance |
+| [C](concepts/L1-living-dining/fixed-layout/04-dining-to-puja.png) | Dining side across to the puja bay |
+
+These are layout-check renders with simplified finishes. Earlier polished hall images below are finish references only and are superseded for spatial arrangement. The printed room size sets the model envelope; door widths, pillars, notch and ceiling remain estimates. The compact puja bay and sofa-to-TV distance need site confirmation.
+
+---
+
+## L1 — earlier finish study: pearl grey, walnut and champagne
 
 ![L1 modern premium walnut and pearl grey living dining with two-partition puja nook](concepts/L1-living-dining/walnut-pearl-puja-two-partitions.png)
 
