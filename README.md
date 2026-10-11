@@ -2,7 +2,19 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
-## B2 — latest full décor concept
+## B2 — corrected AC position in top and front views
+
+![B2 top and front views with AC on the left wall near the bed foot](concepts/B2-parents-bedroom/sage-cream-matched-ac-layout.png)
+
+[Open the corrected layout and front view](concepts/B2-parents-bedroom/sage-cream-matched-ac-layout.png)
+
+The owner selected the second front view as the reference. The AC stays high on the left side wall, above the botanical artwork, near the bed’s foot. The overhead view has been corrected to show that position instead of placing the AC near the entrance. In the overhead cutaway, the artwork below the AC is hidden by the unit.
+
+The sage-and-cream finishes, existing window behind the bed, rug, fan, bedside lighting and shallow ceiling border follow the selected front-view design. Room dimensions and all installation clearances remain provisional until site measurement; the illustration does not establish exact distances or a measured furniture layout. The rug proportions in the generated overhead are illustrative; use the proposed sizing notes below when developing a measured plan.
+
+---
+
+## Selected front-view décor reference
 
 ![B2 parents bedroom with rug, lighting, AC, fan and shallow ceiling border](concepts/B2-parents-bedroom/sage-cream-full-decor.png)
 
@@ -26,7 +38,7 @@ These are design targets, not measured or guaranteed dimensions in the generated
 
 - A shallow perimeter false-ceiling border is optional, not required. The concept suggests about a 4″ drop with the central slab retained; detail it only after measuring ceiling height and checking the lighting system. Mount the fan to structural support and maintain manufacturer blade clearances. If height is insufficient, omit the border and use surface-mounted lighting.
 - Use separately switched, dimmable warm-white ambient lighting and bedside reading lights; position downlights clear of the fan sweep to avoid flicker effects.
-- AC placement on the left wall is conceptual. Confirm unit sizing, intake/service clearances, condensate drainage and outdoor-unit routing with the installer; direct airflow away from sleeping faces.
+- The selected AC position is high on the left wall near the bed’s foot, above the botanical artwork, as shown in the corrected paired views. Its exact mounting position remains conceptual. Confirm unit sizing, intake/service clearances, condensate drainage and outdoor-unit routing with the installer; direct airflow away from sleeping faces.
 - Keep the headboard below the actual window sill. Verify window access, pillar projections and clear walking routes before ordering furniture. A target of 30–36″ clear circulation must be checked against the actual room and furniture, not inferred from the rendering.
 - Use a flat rug with a nonslip underlay and avoid raised or curled edges.
 
