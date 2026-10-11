@@ -2,7 +2,27 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
-## L1 — living and dining with ivory marble
+## L1 — latest theme: pearl grey, walnut and champagne
+
+![L1 modern premium walnut and pearl grey living dining with two-partition puja nook](concepts/L1-living-dining/walnut-pearl-puja-two-partitions.png)
+
+[Open the latest living and puja concept](concepts/L1-living-dining/walnut-pearl-puja-two-partitions.png)
+
+The hall now has its own palette: pearl-grey upholstery, medium walnut furniture and partitions, restrained champagne-metal accents, and the requested ivory marble floor and TV panel. Abstract neutral artwork replaces the bedroom’s sage-and-oak styling.
+
+### Updated arrangement
+
+- Move the L sofa closer to the TV while keeping it facing the wall shared with B2. Keep B2’s doorway and the kitchen/bedroom access routes clear.
+- Create a dedicated puja area with a Singhasan behind the sofa on the main-entry side.
+- Use two short open partitions: one behind the sofa, and another below the main entrance on the right side in the original plan orientation. “Below the door” is interpreted as below the main entry.
+- Keep an accessible opening between the screens. The walnut-and-ivory Singhasan has closed base storage, a small offering surface and separate gentle lighting.
+- Retain four-seat dining near the upper-left kitchen access, the ceiling fan, layered lighting and conceptual AC placement. L1 has no windows.
+
+The image is a furnishing concept rather than a measured plan. The depicted entry door leaf and screen relation are illustrative. Verify door swing, landing, pillar offsets, partition depth and puja standing/kneeling space before fixing this arrangement; neither screen may obstruct the entrance or circulation. Singhasan dimensions and deity arrangement should be adapted to the owner’s actual idols and worship practice. Measure the TV viewing distance from the selected sofa position and choose it for the actual TV size. The lighting and ceiling details remain subject to ceiling height and installation requirements.
+
+---
+
+## Earlier L1 theme — ivory marble and light oak
 
 ![L1 ivory marble living and dining with sofa facing TV on B2 wall](concepts/L1-living-dining/ivory-marble-partition.png)
 
