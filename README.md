@@ -2,7 +2,39 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
-## B2 — sage + cream, updated with the existing window
+## B2 — latest full décor concept
+
+![B2 parents bedroom with rug, lighting, AC, fan and shallow ceiling border](concepts/B2-parents-bedroom/sage-cream-full-decor.png)
+
+[Open the full décor image](concepts/B2-parents-bedroom/sage-cream-full-decor.png)
+
+The selected sage-and-cream style now includes an oatmeal low-pile rug, layered bedding, light oak bedside storage, botanical art, small accessories, brass reading lights, a cream window blind, a white ceiling fan and a split AC. The existing window stays behind the bed; B2 has no balcony. The wardrobe remains toward the entrance, outside this camera view.
+
+### Proposed sizes and installation notes
+
+These are design targets, not measured or guaranteed dimensions in the generated image:
+
+| Item | Proposed size / arrangement |
+| --- | --- |
+| Room | Approximately 11′1″ × 14′7″ from the plan; verify on site |
+| Queen mattress | 5′ × 6′6″ |
+| Bed frame | Approximately 5′4″ × 6′10″, subject to selected product |
+| Bedside tables | 18″ wide × 16″ deep each |
+| Rug | 9′ across room × 6′ along room, under lower portion of bed; confirm it clears wardrobe and bedside tables |
+| Wardrobe | 6′ long × 2′ deep, upper right wall near entrance |
+| Fan | Approximately 48″ sweep; confirm suitability and manufacturer clearances |
+
+- A shallow perimeter false-ceiling border is optional, not required. The concept suggests about a 4″ drop with the central slab retained; detail it only after measuring ceiling height and checking the lighting system. Mount the fan to structural support and maintain manufacturer blade clearances. If height is insufficient, omit the border and use surface-mounted lighting.
+- Use separately switched, dimmable warm-white ambient lighting and bedside reading lights; position downlights clear of the fan sweep to avoid flicker effects.
+- AC placement on the left wall is conceptual. Confirm unit sizing, intake/service clearances, condensate drainage and outdoor-unit routing with the installer; direct airflow away from sleeping faces.
+- Keep the headboard below the actual window sill. Verify window access, pillar projections and clear walking routes before ordering furniture. A target of 30–36″ clear circulation must be checked against the actual room and furniture, not inferred from the rendering.
+- Use a flat rug with a nonslip underlay and avoid raised or curled edges.
+
+This perspective illustrates décor and finishes, not a scaled construction drawing. Window dimensions, sill height, pillar sizes and ceiling height remain unverified.
+
+---
+
+## Previous layout concept — existing window confirmed
 
 ![B2 sage and cream — revised overhead layout and bedroom concept](concepts/B2-parents-bedroom/sage-cream-existing-window.png)
 
