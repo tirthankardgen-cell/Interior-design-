@@ -1,0 +1,10 @@
+import {build} from 'esbuild';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+const result=await build({entryPoints:['planner/app.js'],bundle:true,format:'iife',minify:true,write:false,legalComments:'inline'});
+const css=await readFile('planner/style.css','utf8');
+const html=await readFile('planner/template.html','utf8');
+const output=html.replace('/* APP_STYLE */',css).replace('/* APP_CODE */',()=>result.outputFiles[0].text.replaceAll('</script','<\\/script'));
+await mkdir('docs',{recursive:true});
+await writeFile('docs/index.html',output);
+await writeFile('planner.html',output);
+console.log('Built planner.html and docs/index.html — standalone, no network dependencies.');

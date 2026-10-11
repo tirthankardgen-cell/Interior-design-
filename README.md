@@ -2,6 +2,20 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
+## Download your whole-flat planner
+
+**[Download Roomnote ZIP](https://github.com/tirthankardgen-cell/Interior-design-/raw/refs/heads/main/downloads/roomnote-planner.zip)** → extract → open **Roomnote.html** in your browser.
+
+Arrange **the entire flat: living/dining, kitchen, toilet, WC, B1, B2 and balcony**. Drag furniture, add windows and doors, move internal walls, enter real measurements, and orbit a matching 3D preview. No account or internet connection is needed after downloading.
+
+Click **Save layout** and attach the downloaded JSON in our chat to use your arrangement for subsequent realistic renders. The app provides a schematic 3D preview; it does not generate photorealistic images itself. Existing openings and structural details remain provisional until measured.
+
+[Full instructions](planner/README.md) · [Download HTML directly](https://github.com/tirthankardgen-cell/Interior-design-/raw/refs/heads/main/planner.html)
+
+![Whole-flat planner](planner/preview.png)
+
+---
+
 ## L1 — current layout: matched to the owner’s rough sketch
 
 ![L1 fixed top plan with camera directions](concepts/L1-living-dining/fixed-layout/00-labelled-plan.png)
