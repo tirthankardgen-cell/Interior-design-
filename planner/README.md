@@ -47,3 +47,7 @@ The managed cloud browser blocks `file://` navigation, so automated tests use lo
 ## Saved layout coordinates
 
 `format: roomnote-layout`, `version: 1`, `units: metres`. Room vertices are clockwise in plan coordinates: x right, y down. Item x/y are centres, w/d/h are width/depth/height, e is elevation, and rotation is clockwise degrees. Doors/windows add a zero-based wall segment and offset from its first vertex. Three.js uses x right, y up, z plan-down; saved camera position/target use those coordinates. Exported geometry and camera allow subsequent renders to preserve the arrangement.
+
+## Owner revision, 12 October 2026
+
+The ZIP includes `whole-flat-updated.json`. Open it using **Open layout** to load your latest arrangement. New catalogue items include a work desk, desk chair, kitchen cabinet, fridge, sink, cooktop, WC, shower and sliding glass door. Fixture locations are provisional; existing owner-edited walls and furnishings are preserved. A two-panel sliding door gives about half the nominal width as clear opening.

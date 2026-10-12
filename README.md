@@ -2,6 +2,14 @@
 
 B1 is the user’s bedroom. B2 is the parents’ bedroom.
 
+## Latest owner layout — 12 October
+
+[Download the updated planner and layout](https://github.com/tirthankardgen-cell/Interior-design-/raw/refs/heads/main/downloads/roomnote-planner.zip). Extract it, open **Roomnote.html**, then choose **Open layout → whole-flat-updated.json** from the extracted folder.
+
+Your uploaded walls and furniture positions are retained. Added provisional kitchen cabinets, sink, cooktop and fridge; T1 shower/basin; W1 WC/basin; B1 work desk and chair; and a sliding balcony door to the right of the marked pillar. B1 finishes await your reference image. A 130 cm two-panel slider has roughly 65 cm clear opening; confirm this and plumbing locations on site.
+
+[Updated plan](layouts/2026-10-12/updated-plan.png) · [Updated JSON](layouts/2026-10-12/whole-flat-updated.json) · [Original upload](layouts/2026-10-12/owner-original.json)
+
 ## Download your whole-flat planner
 
 **[Download Roomnote ZIP](https://github.com/tirthankardgen-cell/Interior-design-/raw/refs/heads/main/downloads/roomnote-planner.zip)** → extract → open **Roomnote.html** in your browser.
